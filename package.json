@@ -1,0 +1,23 @@
+{
+  "name": "atmproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathaniel-brost/ATMProject.git"
+  },
+  "author": "NathanielBrost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathaniel-brost/ATMProject/issues"
+  },
+  "homepage": "https://github.com/nathaniel-brost/ATMProject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
